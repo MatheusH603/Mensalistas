@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MensalistasApplication<mensalistas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "dw.mensalistas.MensalistasApplication",
+            "projectName": "mensalistas",
+            "args": ""
+        }
+    ]
+}
